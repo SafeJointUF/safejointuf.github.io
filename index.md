@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Jekyll Deployment Test
+title: Website
 ---
 
-# 🚀 Jekyll Test Page
+# Best Website
 
-If you can see this page, your GitHub Actions pipeline successfully compiled Jekyll!
+This website works so well woohoo!
 
 **Current Version:** 1.0  
 **Build Time:** {{ "now" | date: "%Y-%m-%d %H:%M" }}
